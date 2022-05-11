@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "1854368657:AAH55FgcHbonhIAEtzTzdhgd6cMigf5H11c"
-    APP_ID = "1971546"
-    API_HASH = "b994bccad6118cd6fb6d091b9bbfe5cf"
+    BOT_TOKEN = "5273196372:AAEk9fwz54Sd0FQXOnioSlNxJMA1YyAmBl0"
+    APP_ID = "4232880"
+    API_HASH = "a55908c66affe732a7334d5e7c26827b"
     DATABASE_URL = "postgres://xzikoxfjzpzvph:a391d7f81f05edb4206c405850fc7ad021470da8ae615c34fddde71a055a54a6@ec2-52-0-114-209.compute-1.amazonaws.com:5432/d3fg2ul81hd69t"
     SUDO_USERS = "1331188677" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/lkhitech"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "211441795261-cn3g6m1tios1291d8gd8mul4vkmc2grb.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "HENHM0YRHdVvAWtUK7S7DRiY"
+    G_DRIVE_CLIENT_ID = "340322167849-jig793qdp66iikorkggni7rcjkdncvnh.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there [𝓜𝓻,𝓙𝓸𝓴𝓮𝓻](https://telegra.ph/file/6525d89de5b72003d80fa.png) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Hi there [4Nu8H4v](https://telegra.ph/file/6525d89de5b72003d80fa.png) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
